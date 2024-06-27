@@ -1,0 +1,101 @@
+{
+  "login": {
+    "Epidemic Disease": [
+      {
+        "count": 11,
+        "disease_name": "Early Blight",
+        "epidemic": true
+      },
+      {
+        "count": 11,
+        "disease_name": "Late Blight",
+        "epidemic": true
+      }
+    ],
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcxNzg1MzgzMSwianRpIjoiZTU2MWM4ZjktYjU2OS00MTMzLTg1NTktY2JhY2E2MmI2ZWQyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6OCwibmJmIjoxNzE3ODUzODMxLCJjc3JmIjoiMDkxY2JkZTMtMzYwNC00YmZmLWI2YjQtMjAxMDRiZmVjZjJjIiwiZXhwIjoxNzE3ODYxMDMxLCJlbWFpbCI6InphemFAZ21haWwuY29tIn0.AwALMGWDYGbugQAAJt0Y8z-XP298y6MJwE_GK_91zUo",
+    "email": "zaza@gmail.com",
+    "firstName": "zaza",
+    "lastName": "zaza",
+    "occupation": "Farmer",
+    "phoneNumber": 251953099662,
+    "region": "Harar",
+    "user_id": 8,
+    "zone": "gurage"
+  },
+
+  "researcher-page": {
+    "Count by disease": [
+      {
+        "count": 30,
+        "disease_name": "Early Blight",
+        "epidemic": true
+      },
+      {
+        "count": 15,
+        "disease_name": "Late Blight",
+        "epidemic": true
+      }
+    ],
+    "Count by region": [
+      {
+        "count": 3,
+        "region": "Addis Ababa"
+      },
+      {
+        "count": 3,
+        "region": "Dire Dawa"
+      },
+      {
+        "count": 22,
+        "region": "Harar"
+      },
+      {
+        "count": 10,
+        "region": "Oromia"
+      },
+      {
+        "count": 7,
+        "region": "Tigray"
+      }
+    ],
+    "Total disease Report": 45,
+    "prevalency per region": {
+      "Early Blight": [
+        {
+          "count": 3,
+          "region": "Addis Ababa"
+        },
+        {
+          "count": 2,
+          "region": "Dire Dawa"
+        },
+        {
+          "count": 11,
+          "region": "Harar"
+        },
+        {
+          "count": 10,
+          "region": "Oromia"
+        },
+        {
+          "count": 4,
+          "region": "Tigray"
+        }
+      ],
+      "Late Blight": [
+        {
+          "count": 1,
+          "region": "Dire Dawa"
+        },
+        {
+          "count": 11,
+          "region": "Harar"
+        },
+        {
+          "count": 3,
+          "region": "Tigray"
+        }
+      ]
+    }
+  }
+}
